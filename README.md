@@ -13,6 +13,7 @@ the steps below to checkout, build and run the code.
 2. cd to the project directory and build code using maven
 
 > cd concur-interview-vijay
+
 > mvn clean install
 
 3. Run the jar file generated under target folder. By default spring boot
